@@ -40,7 +40,8 @@
             "extensions": [
                 ".cal",
                 ".c-al",
-                ".nav"
+                ".nav",
+                ".txt"
             ],
             "configuration": "./language-configuration.json"
         }],
